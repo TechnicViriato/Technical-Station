@@ -10,7 +10,7 @@
     sprite: Clothing/Back/Backpacks/merc.rsi
   - type: ExplosionResistance
     damageCoefficient: 0.5
-  - type: Storage
+  - type: Storag
     grid:
     - 0,0,7,3
     - 8,1,8,3
