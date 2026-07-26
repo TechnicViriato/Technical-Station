@@ -8,7 +8,7 @@
   completed:
   - !type:HasOrgan
     organCategory: Heart
-    conditions:
+    conditions
     - !type:WhitelistCondition
       whitelist:
         components:
