@@ -2,7 +2,7 @@
 
 - type: decal
   id: WoodTrimThinBoxWhite
-  tags: ["station", "markings"]
+  tags: ["station", "markings"
   sprite:
     sprite: _Corvax/Decals/wood_trim_white.rsi
     state: thin_box
